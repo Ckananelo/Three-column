@@ -1,0 +1,60 @@
+body{
+    background-color: aliceblue;
+
+}
+.container{
+    width: 900px;
+    height: 410px;
+    background-color: rgb(255, 254, 252);
+    display: flex;
+    margin-left: 16%;
+    margin-top: 10%;
+}
+#box1{
+    height: 400px;
+    width: 300px;
+    background-color: hsl(31, 77%, 52%);
+    border: none;
+
+}
+#box2{
+    height: 400px;
+    width: 350px;
+    background-color: hsl(184, 100%, 22%);
+    border: none; 
+}
+#box3{
+    height: 400px;
+    width: 350px;
+    background-color: hsl(179, 100%, 13%);
+    border: none; 
+}
+button{
+    background-color: white;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: white;
+    width: 100px;
+    height: 30px;
+    margin-top: 80px;
+    margin-left: 90px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: transparent;
+}
+img{
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+p{
+    color: #ffffff;
+    margin-left: 10%;
+}
+h1{
+    color: #ffffff;
+    margin-left: 10%;
+}
